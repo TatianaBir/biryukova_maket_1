@@ -1,0 +1,15 @@
+@media (max-width: 750px) {
+	.line-1, .line-3 {
+		display: none;
+	}
+
+
+	.carousel-caption {
+ 		display: none;
+	}
+
+	.carousel-indicators {
+    left: 500px;
+  }	
+
+}
